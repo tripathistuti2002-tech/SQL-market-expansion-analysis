@@ -18,6 +18,8 @@ The project utilizes four primary tables:
 * **`products`**: Holds product details and pricing information.
 * **`sales`**: Contains transactional data including purchase dates, quantities, and totals.
 
+* 
+https://1drv.ms/i/c/88C3D9BEA77C1D5F/IQDw75DcG-oCSp1KfmoAvfk-AQ2G5okxu-aXfNbaYqalxlk?e=HrZkcF
 ---
 
 ##  Key Questions & SQL Business Analysis
